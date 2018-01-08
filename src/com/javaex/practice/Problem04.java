@@ -1,10 +1,11 @@
 package com.javaex.practice;
 
-public class Prob01 {
-
+public class Problem04 {
+	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		int j=1;
+		
+		
 	}
-
 }
